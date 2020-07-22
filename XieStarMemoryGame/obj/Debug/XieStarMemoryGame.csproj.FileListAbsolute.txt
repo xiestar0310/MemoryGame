@@ -1,0 +1,10 @@
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\bin\Debug\XieStarMemoryGame.exe.config
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\bin\Debug\XieStarMemoryGame.exe
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\bin\Debug\XieStarMemoryGame.pdb
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.csprojAssemblyReference.cache
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.Form1.resources
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.Properties.Resources.resources
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.csproj.GenerateResource.cache
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.exe
+C:\Users\dxie0\source\repos\XieStarMemoryGame\XieStarMemoryGame\obj\Debug\XieStarMemoryGame.pdb
